@@ -1,0 +1,18 @@
+PORT = 8080
+
+MONGO_URL=mongodb+srv://Bikash921:Bikash921@cluster0.evbxvej.mongodb.net/MERNProject
+
+JWT_SECRET= uyw272^53gdyw37@$hh22
+
+CLOUD_NAME=dynsdyufv
+API_KEY=438338941443492
+API_SECRET=h0Fat1N1aMzSRZdpOQUic6vbWLU
+
+FOLDER_NAME = StudyNotion
+CLOUDINARY_VIDEO_FOLDER= StudyNotion/Video
+
+MAIL_HOST = smtp.gmail.com
+MAIL_USER = santrabikash922@gmail.com
+MAIL_PASS = lrxm hhll vbcp oivx
+
+FRONTEND_URL = http://localhost:5173
